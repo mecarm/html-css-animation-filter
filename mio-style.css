@@ -92,3 +92,14 @@
   0% {transform: rotate(360deg);}
   100% {transform: rotate(0deg);}
 }
+
+/* Esercizio n11 */
+.ex-11-icon:hover{
+  animation: mezzo-giro 2s linear;
+}
+
+@keyframes mezzo-giro{
+  0% {transform: rotate(0deg);}
+  75% {transform: rotate(290deg);}
+  100%{transform: rotate(0deg);}
+}

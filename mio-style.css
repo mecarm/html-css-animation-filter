@@ -25,3 +25,12 @@
 .ex-3-square{
   transition: 0.5s;
 }
+
+/* Esercizio n4 */
+.ex-4-square:hover{
+  opacity: 0;
+}
+
+.ex-4-square{
+  transition: 2s;
+}

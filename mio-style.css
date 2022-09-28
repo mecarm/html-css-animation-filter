@@ -71,3 +71,14 @@
 .ex-8-img{
   transition: 2s;
 }
+
+/* Esercizio n9 */
+.ex-9-img:hover{
+  filter: grayscale(30%) sepia(70%);
+  border-radius: 10px;
+  transform: scale(1.5);
+}
+
+.ex-9-img{
+  transition: 2s;
+}

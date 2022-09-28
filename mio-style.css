@@ -47,3 +47,8 @@
 .ex-5-square{
   transition: 1s;
 }
+
+/* Esercizio n6 */
+.ex-6-img:hover{
+  filter: grayscale();
+}

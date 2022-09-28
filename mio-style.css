@@ -16,3 +16,12 @@
 .ex-2-square{
   transition: 2s;
 }
+
+/* Esercizio n3 */
+.ex-3-square:hover{
+  border-radius: 50px;
+}
+
+.ex-3-square{
+  transition: 0.5s;
+}
